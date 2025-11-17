@@ -1,0 +1,89 @@
+pair,ox,fuel,book_listed,OF_scan_min,OF_scan_max,OF_practical_min,OF_practical_max,OF_practical_note
+LOX/LH2,LOX,LH2,1,0.05,8.0,4.5,6.0,"Hydrolox engines (SSME, RL10, Vulcain class) typically operate around O/F 5–6 by mass, balancing high characteristic velocity and cooling limits. Richer than about 4.5 reduces performance, leaner than about 6 becomes very hot and oxidizer rich."
+LOX/GH2,LOX,GH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+LOX/RP-1,LOX,RP-1,1,0.05,8.0,2.1,2.8,"LOX/RP-1 booster engines (F-1, Merlin, RD series) tend to lie around O/F 2.2–2.7. Below about 2.1 soot and coking rise, above 2.8 the flow becomes very hot and oxidizer rich."
+LOX/CH4,LOX,CH4,1,0.05,8.0,3.0,3.9,"LOX/CH4 (methalox) engines in development generally target O/F in the 3.2–3.8 range: slightly fuel rich for cooling, near the Isp peak for high performance."
+LOX/C2H6,LOX,C2H6,1,0.05,8.0,3.0,4.0,"LOX/ethane concepts cluster near stoichiometric, with O/F around 3–4 used in studies. This band balances performance and material constraints."
+LOX/ETHANOL,LOX,ETHANOL,1,0.05,8.0,1.6,2.2,"LOX/ethanol engines such as the V-2 ran around O/F 1.6–2.0, while stoichiometric is close to 2.1. The 1.6–2.2 band covers typical rich-to-near-stoichiometric operation."
+LOX/MMH,LOX,MMH,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+LOX/UDMH,LOX,UDMH,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+LOX/N2H4,LOX,N2H4,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+LOX/NH3,LOX,NH3,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+LOX/JP10,LOX,JP10,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+GOX/LH2,GOX,LH2,0,0.05,8.0,3.0,6.0,"Gaseous O2 / liquid H2 combinations for test engines and RCS cover O/F roughly 3–6, from fuel rich ignition and cooling regimes up to near performance maxima."
+GOX/GH2,GOX,GH2,1,0.05,8.0,1.5,4.0,All gaseous O2/H2 systems are usually kept fuel rich (O/F about 1.5–4) to keep flame temperature low enough for chambers and valves while still producing reasonable Isp.
+GOX/RP-1,GOX,RP-1,0,0.05,8.0,2.0,2.8,"GOX/RP-1 follows similar chemistry to LOX/RP-1, with practical operation around O/F 2–2.8 depending on test objectives and cooling design."
+GOX/CH4,GOX,CH4,0,0.05,8.0,2.8,3.8,"Gaseous O2 / methane test engines are operated over O/F roughly 2.8–3.8, covering fuel rich ignition and performance points."
+GOX/C2H6,GOX,C2H6,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+GOX/ETHANOL,GOX,ETHANOL,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+GOX/MMH,GOX,MMH,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+GOX/UDMH,GOX,UDMH,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+GOX/N2H4,GOX,N2H4,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+GOX/NH3,GOX,NH3,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+GOX/JP10,GOX,JP10,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O/LH2,N2O,LH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O/GH2,N2O,GH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O/RP-1,N2O,RP-1,1,0.05,8.0,5.0,8.0,"N2O/kerosene concepts are typically explored for O/F 5–8, where combustion remains efficient and chamber temperatures are tolerable."
+N2O/CH4,N2O,CH4,1,0.05,8.0,4.0,7.0,N2O/methane combinations near stoichiometric fall inside O/F 4–7; outside this band performance or thermal limits become less attractive.
+N2O/C2H6,N2O,C2H6,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O/ETHANOL,N2O,ETHANOL,1,0.05,8.0,5.0,7.0,"N2O/ethanol bipropellant and hybrid tests often choose O/F values between 5 and 7, straddling stoichiometric while limiting wall heat flux."
+N2O/MMH,N2O,MMH,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O/UDMH,N2O,UDMH,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O/N2H4,N2O,N2H4,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O/NH3,N2O,NH3,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O/JP10,N2O,JP10,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O4/LH2,N2O4,LH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O4/GH2,N2O4,GH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O4/RP-1,N2O4,RP-1,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O4/CH4,N2O4,CH4,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O4/C2H6,N2O4,C2H6,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O4/ETHANOL,N2O4,ETHANOL,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O4/MMH,N2O4,MMH,1,0.05,8.0,1.9,2.2,N2O4/MMH main engines and large thrusters are usually designed around O/F about 2.0. The 1.9–2.2 band reflects practical engineering choices.
+N2O4/UDMH,N2O4,UDMH,1,0.05,8.0,1.9,2.2,"N2O4/UDMH hypergolic stages commonly operate near O/F 2.0, with roughly 1.9–2.2 covering realistic engine operation."
+N2O4/N2H4,N2O4,N2H4,1,0.05,8.0,1.0,1.4,N2O4/hydrazine hypergolic engines tend to lie near O/F 1.2; values between 1.0 and 1.4 allow ignition reliability with reasonable performance.
+N2O4/NH3,N2O4,NH3,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O4/JP10,N2O4,JP10,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/LH2,H2O2,LH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/GH2,H2O2,GH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/RP-1,H2O2,RP-1,1,0.05,8.0,6.0,8.0,"High-test peroxide with kerosene is usually operated close to stoichiometric, around O/F 6–8, slightly fuel rich for materials and stability margins."
+H2O2/CH4,H2O2,CH4,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/C2H6,H2O2,C2H6,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/ETHANOL,H2O2,ETHANOL,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/MMH,H2O2,MMH,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/UDMH,H2O2,UDMH,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/N2H4,H2O2,N2H4,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/NH3,H2O2,NH3,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/JP10,H2O2,JP10,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/LH2,F2,LH2,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/GH2,F2,GH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/RP-1,F2,RP-1,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/CH4,F2,CH4,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/C2H6,F2,C2H6,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/ETHANOL,F2,ETHANOL,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/MMH,F2,MMH,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/UDMH,F2,UDMH,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/N2H4,F2,N2H4,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/NH3,F2,NH3,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+F2/JP10,F2,JP10,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/LH2,OF2,LH2,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/GH2,OF2,GH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/RP-1,OF2,RP-1,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/CH4,OF2,CH4,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/C2H6,OF2,C2H6,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/ETHANOL,OF2,ETHANOL,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/MMH,OF2,MMH,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/UDMH,OF2,UDMH,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/N2H4,OF2,N2H4,1,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/NH3,OF2,NH3,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+OF2/JP10,OF2,JP10,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/LH2,IRFNA,LH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/GH2,IRFNA,GH2,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/RP-1,IRFNA,RP-1,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/CH4,IRFNA,CH4,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/C2H6,IRFNA,C2H6,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/ETHANOL,IRFNA,ETHANOL,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/MMH,IRFNA,MMH,1,0.05,8.0,1.8,2.2,IRFNA/MMH combinations also center on O/F about 2.0. The 1.8–2.2 range covers practical operation.
+IRFNA/UDMH,IRFNA,UDMH,1,0.05,8.0,1.8,2.2,"IRFNA/UDMH was used in early storable launch vehicles, with O/F around 2.0. The 1.8–2.2 interval is a realistic design window."
+IRFNA/N2H4,IRFNA,N2H4,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/NH3,IRFNA,NH3,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/JP10,IRFNA,JP10,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.

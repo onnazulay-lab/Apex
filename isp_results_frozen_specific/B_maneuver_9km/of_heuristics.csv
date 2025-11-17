@@ -1,0 +1,10 @@
+pair,ox,fuel,book_listed,OF_scan_min,OF_scan_max,OF_practical_min,OF_practical_max,OF_practical_note
+N2O/RP-1,N2O,RP-1,1,0.05,8.0,5.0,8.0,"N2O/kerosene concepts are typically explored for O/F 5–8, where combustion remains efficient and chamber temperatures are tolerable."
+N2O/N2H4,N2O,N2H4,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+N2O/ETHANOL,N2O,ETHANOL,1,0.05,8.0,5.0,7.0,"N2O/ethanol bipropellant and hybrid tests often choose O/F values between 5 and 7, straddling stoichiometric while limiting wall heat flux."
+H2O2/RP-1,H2O2,RP-1,1,0.05,8.0,6.0,8.0,"High-test peroxide with kerosene is usually operated close to stoichiometric, around O/F 6–8, slightly fuel rich for materials and stability margins."
+H2O2/N2H4,H2O2,N2H4,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+H2O2/ETHANOL,H2O2,ETHANOL,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/RP-1,IRFNA,RP-1,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/N2H4,IRFNA,N2H4,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
+IRFNA/ETHANOL,IRFNA,ETHANOL,0,0.05,8.0,,,No widely used engine data for this pair; treat the O/F sweep as exploratory only.
